@@ -1,7 +1,7 @@
 @echo off
 :: =====================================================================
 :: PC-Testing-Toolkit - Ultimate Automation Launcher (Part 1 - Final v1.0)
-:: GitHub: https://github.com/crypt1cx01/PC-Testing-Toolkit
+:: GitHub: https://github.com/omargablx02/PC-Testing-Toolkit
 :: =====================================================================
 
 title PC-Testing-Toolkit Launcher v1.0
@@ -27,7 +27,7 @@ echo ===========================================================================
 echo   [--------------------------------------------------------------------------------------]
 echo     P C   T E S T I N G   T O O L K I T   _   A U T O M A T I O N   L A U N C H E R
 echo   [--------------------------------------------------------------------------------------]
-echo     Main Portal - Managed Security and Stability                  Created by crypt1cx01
+echo     Main Portal - Managed Security and Stability                  Created by Omar Ashraf
 echo ====================================================================================================
 echo.
 echo   1] CPU and GPU Diagnostics Menu                        4] Storage and RAM Testing Menu
@@ -846,5 +846,5 @@ exit /b
 :VISIT_GITHUB
 cls
 echo [!] Opening GitHub Repository in your browser...
-start "" "https://github.com/crypt1cx01/PC-Testing-Toolkit"
+start "" "https://github.com/omargablx02/PC-Testing-Toolkit"
 goto MAIN_MENU

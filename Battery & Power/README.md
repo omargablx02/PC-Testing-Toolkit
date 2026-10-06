@@ -20,7 +20,7 @@ This directory focuses on checking the power efficiency, health status, and degr
   4. Press Enter. It will generate an HTML file. Open it to compare **Design Capacity** vs. **Full Charge Capacity**.
 
 ### 2. HWMonitor
-* **Local Folder:** [HWMonitor Tool & Files](https://github.com/crypt1cx01/PC-Testing-Toolkit/tree/main/Battery%20%26%20Power/hwmonitor)
+* **Local Folder:** [HWMonitor Tool & Files](https://github.com/omargablx02/PC-Testing-Toolkit/tree/main/Battery%20%26%20Power/hwmonitor)
 * **Usage:** Run the portable version to monitor real-time temperatures, voltage usage, and the precise battery wear level percentage.
 
 ---

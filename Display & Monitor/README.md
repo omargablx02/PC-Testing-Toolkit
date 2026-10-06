@@ -5,7 +5,7 @@ Tools and links to check panel imperfections, screen responsiveness, and color c
 ## 🛠️ Included Tools & Web Tools
 
 ### 1. UDPixel22
-* **Local Folder:** [UDPixel22 Tool & Files](https://github.com/crypt1cx01/PC-Testing-Toolkit/tree/main/Display%20%26%20Monitor/UDPixel22)
+* **Local Folder:** [UDPixel22 Tool & Files](https://github.com/omargablx02/PC-Testing-Toolkit/tree/main/Display%20%26%20Monitor/UDPixel22)
 * **Usage:** A desktop tool designed to locate and fix stuck pixels by rapidly cycling colors on targeted areas of the screen.
 
 ### 2. Dead Pixel Buddy
